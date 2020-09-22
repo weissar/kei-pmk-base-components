@@ -1,2 +1,2 @@
 # kei-pmk-base-components
-Base components from KAE/MPP (KEI/MAP)
+Base code components from KAE/MPP (KEI/MAP)
